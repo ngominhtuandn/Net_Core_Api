@@ -1,5 +1,5 @@
 ﻿using NewApp.Models;
 
-Person ps = new Student();
+Student ps = new Student();
 ps.EnterDate();
 ps.Display();

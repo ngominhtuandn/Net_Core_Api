@@ -1,24 +1,32 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace NewApp.Models
 {
     public class Student
     {
-        public string FullName {get; set;}
-        public string Ngaysinh {get; set;}
-    }
-    public void EnterDate()
-    {
-            System.Console.Write("Full name =");
-            FullName = Console.ReadLine();
-            System.Console.Write("Ngaysinh = ");
-            Ngaysinh = Console.ReadLine();
-    }
-    public void Display()
+        public string Fullname { get; set; }
+        public string Birthday { get; set; }
+        public string Email { get; set; }
+        public string Gender { get; set; }
+        public string Address { get; set; }
+        public void EnterDate()
+      
         {
-            System.Console.WriteLine("{0} - {1}", FullName, Ngaysinh);
+            Console.WriteLine("Nhap ten: ");
+            Fullname = Console.ReadLine();
+            Console.WriteLine("Nhap ngay sinh(dd-mm-yyyy): ");
+            Birthday = Console.ReadLine();
+            Console.WriteLine("Nhap email: ");
+            Email = Console.ReadLine();
+            Console.WriteLine("Nhap gioi tinh: ");
+            Gender = Console.ReadLine();
+            Console.WriteLine("Nhap dia chi: ");
+            Address = Console.ReadLine();
         }
-}
+
+        public void Display() 
+        {
+            System.Console.WriteLine("Ten: {0}, Ngay sinh: {1}, Gioi tinh: {2}, Email: {3}," +
+                              "Dia chi: {4}", Fullname, Birthday, Gender, Email, Address);
+        }
+    }
+        
+    }

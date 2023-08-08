@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\NGOMINHTUAN\\WebAPI\\WebAPI.csproj": {}
+    "d:\\NGOMINHTUAN\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "d:\\NGOMINHTUAN\\WebAPI\\WebAPI.csproj": {
+    "d:\\NGOMINHTUAN\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\NGOMINHTUAN\\WebAPI\\WebAPI.csproj",
-        "projectName": "WebAPI",
-        "projectPath": "d:\\NGOMINHTUAN\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "d:\\NGOMINHTUAN\\ConsoleApp\\ConsoleApp.csproj",
+        "projectName": "ConsoleApp",
+        "projectPath": "d:\\NGOMINHTUAN\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\tuank\\.nuget\\packages\\",
-        "outputPath": "d:\\NGOMINHTUAN\\WebAPI\\obj\\",
+        "outputPath": "d:\\NGOMINHTUAN\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tuank\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+D:\NGOMINHTUAN\WebAPI\obj\Debug\net7.0\WebAPI.csproj.AssemblyReference.cache
+D:\NGOMINHTUAN\WebAPI\obj\Debug\net7.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\NGOMINHTUAN\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfoInputs.cache
+D:\NGOMINHTUAN\WebAPI\obj\Debug\net7.0\WebAPI.AssemblyInfo.cs
+D:\NGOMINHTUAN\WebAPI\obj\Debug\net7.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\NGOMINHTUAN\WebAPI\bin\Debug\net7.0\WebAPI.exe
+D:\NGOMINHTUAN\WebAPI\bin\Debug\net7.0\WebAPI.deps.json
+D:\NGOMINHTUAN\WebAPI\bin\Debug\net7.0\WebAPI.runtimeconfig.json
+D:\NGOMINHTUAN\WebAPI\bin\Debug\net7.0\WebAPI.dll
+D:\NGOMINHTUAN\WebAPI\bin\Debug\net7.0\WebAPI.pdb
+D:\NGOMINHTUAN\WebAPI\obj\Debug\net7.0\WebAPI.dll
+D:\NGOMINHTUAN\WebAPI\obj\Debug\net7.0\refint\WebAPI.dll
+D:\NGOMINHTUAN\WebAPI\obj\Debug\net7.0\WebAPI.pdb
+D:\NGOMINHTUAN\WebAPI\obj\Debug\net7.0\WebAPI.genruntimeconfig.cache
+D:\NGOMINHTUAN\WebAPI\obj\Debug\net7.0\ref\WebAPI.dll

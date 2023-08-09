@@ -1,6 +1,4 @@
 ﻿using NewApp.Models;
 
-Employee emp = new Employee();
-emp.EnterData();
-emp.Display();
-
+MyArray Ar = new MyArray();
+Ar.AddAndDisplay();

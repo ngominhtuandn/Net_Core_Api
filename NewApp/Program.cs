@@ -1,5 +1,6 @@
 ﻿using NewApp.Models;
 
-Student ps = new Student();
-ps.EnterDate();
-ps.Display();
+Employee emp = new Employee();
+emp.EnterData();
+emp.Display();
+

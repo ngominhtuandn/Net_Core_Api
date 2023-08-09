@@ -23,7 +23,7 @@ namespace NewApp.Models
             Console.WriteLine("Nhap email: ");
             Ngot = Console.ReadLine();
             Console.WriteLine("Nhap gioi tinh: ");
-            Gender = Console.ReadLine();
+            // Gender = Console.ReadLine();
             Console.WriteLine("Nhap dia chi: ");
             Man = Console.ReadLine();
         }
@@ -33,6 +33,5 @@ namespace NewApp.Models
             System.Console.WriteLine("Ten trai cay: {0}, Xuat xu: {1}, Ngot: {2}, Man: {3}," +
                               "Nha Phan phoi: {4}", TraiCay, XuatXu, Ngot, Man, NhaPhanPhoi);
         }
-    }
     }
 }
